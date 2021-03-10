@@ -8,4 +8,5 @@ def func():
         print(__name__)
     inner()
 
-func()
+from math import *
+print(cos(60));
